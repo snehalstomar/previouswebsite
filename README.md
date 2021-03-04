@@ -1,2 +1,2 @@
 # My Personal Website
-Visit: https://snehalstomar.github.io/ .
+Visit: https://snehalstomar.github.io/ 
